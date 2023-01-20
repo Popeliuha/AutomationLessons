@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleSearchTests", "GoogleSearchTests\GoogleSearchTests.csproj", "{EA90E8F5-F822-49F4-835B-4E2B296F8D09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA90E8F5-F822-49F4-835B-4E2B296F8D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA90E8F5-F822-49F4-835B-4E2B296F8D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA90E8F5-F822-49F4-835B-4E2B296F8D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA90E8F5-F822-49F4-835B-4E2B296F8D09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59AEA452-07F0-4CEB-96D7-3DE63298A600}
+	EndGlobalSection
+EndGlobal
